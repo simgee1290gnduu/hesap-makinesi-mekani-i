@@ -1,4 +1,4 @@
-# hesap-makinesi-mekani-
+# basit hesap makinesi
 basit bir hesap makinesi mekaniği nasıl gelişililecğini  ve oluşturulmasında hangi aşamaları açıklıyoruz.
 İlk önce bir altyapı oluşturmalıydım. Bunun için React yöntemleri Create React App kullanarak altyapımızı oluşturalım
 Daha sonrasında geliştireceğimiz SimpleCalculator bu App rendering'i dahil edelim.
